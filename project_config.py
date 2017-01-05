@@ -12,3 +12,10 @@ FTP_PATH_TO_WWW_DIR = '.'
 
 KIRBY_USER = 'krito'
 KIRBY_PASSWORD = 'R64F9KSkxwGgANKtj39h*eF?7hBp'
+
+
+ENABLE_BUILD_SYSTEM = True
+SRC_URL = "/assets/src"
+BUILD_URL = "/assets/public"
+
+SECURITY_HASH = 'MU00wUHIRawG6mJXdOFGPyi8CSyB9ldf' #added automatically on 2017-01-05 17:42:24.452900
