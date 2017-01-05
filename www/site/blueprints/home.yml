@@ -11,3 +11,15 @@ fields:
   text:
     label: Text
     type:  textarea
+
+  vita:
+    label: Lebenslauf
+    type: textarea
+
+  contact:
+    label: Kontakt
+    type: textarea
+
+  impressum:
+    label: Impressum
+    type: textarea

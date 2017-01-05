@@ -1,9 +1,5 @@
 <?php snippet('header'); ?>
-<div class="row">
-	<div class="col-sm">
-		<?php echo $page->text()->kirbytext(); ?>
-	</div>
-</div>
+<?php echo $page->text()->kirbytext(); ?>
 
 <?php
 $index = 0;
@@ -13,4 +9,7 @@ foreach($page->images() as $image)
 	$index++;
 }
 ?>
+<?php echo $page->vita()->kirbytext(); ?>
+<?php echo $page->contact()->kirbytext(); ?>
+<?php echo $page->impressum()->kirbytext(); ?>
 <?php snippet('footer'); ?>

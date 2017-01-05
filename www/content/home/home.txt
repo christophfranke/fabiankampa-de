@@ -6,4 +6,130 @@ Intro:
 
 ----
 
-Text: Hallo ich bin Fabian Kampa und das sind meine Arbeiten:
+Text: 
+
+----
+
+Contact: 
+
+##Kontakt
+
+E-Mail:
+(email: derfabiankampa@googlemail.com)
+
+Telefon:
+01577-1700792
+
+----
+
+Impressum: 
+
+##Impressum
+
+Fabian Kampa
+Lindenstr. 92
+50674 Köln
+
+Sämtliche auf dieser Seite gezeigten Arbeiten
+sind ausschließlich von mir angefertigt worden.
+
+----
+
+Vita: 
+
+#Über mich
+
+Ich bin ein in Köln lebender 3D-Grafiker. Mein Tätigkeitsfeld umfasst den Arbeitsablauf von der Konzeption, über Modellierung, Texturierung, Beleuchtung bis hin zum Rendering der Inhalte. Ich habe umfangreiche Erfahrung im Anfertigen von echtzeitfähigen Modellen sowie den zugehörigen Techniken wie Texture-baking und dem Erstellen von Materialien und Shadern. Mein Kunstgeschichtsstudium bietet mir zusätzlich ein vertieftes Verständnis von Architektur sowie wissenschaftlichen Rekonstruktionen und deren Präsentation. Seit dem Abschluss meines Studiums und meiner Magisterarbeit zu “Architektur in Videospielen” 2013 arbeite ich hauptberuflich im Bereich 3D-Visualisierung und Gamedesign.
+Software
+
+3dsMax
+Unity3D
+UDK (Unreal Development Kit)
+Photoshop
+MentalRay
+VRay
+World Machine
+Maya
+ZBrush
+
+ 
+
+##Lebenslauf
+
+seit 11.2015: 
+Freiberufler
+
+2.2014-10.2015:
+fester Mitarbeiter bei redPlant Realtime Studios, Düsseldorf
+Tätigkeit: Echtzeit 3D-Grafiker
+(link: http://redPlant.de target: _blank)
+
+11.2013-1.2014:
+Freiberufliche Mitarbeit bei redPlant 3D Echtzeit Studio 
+
+8.2013-9.2013:
+Freiberufliche Mitarbeit bei redPlant 3D Echtzeit Studio
+
+7.2013
+Abschluss Studium Kunstgeschichte, Magister
+
+4.2013-7.2013
+Tutorentätigkeit an der Universität zu Köln
+“Digitale Bildbearbeitung für Kunsthistoriker”
+Tätigkeit: Einführung in Adobe Photoshop
+
+10.2012-3.2013
+Magisterarbeit, Kunstgeschichte
+Thema: “Architektur in Videospielen” 
+
+4.2012-7.2012
+Tutorentätigkeit an der Universität zu Köln
+“Grafische Datenverarbeitung für Kunsthistoriker”
+Tätigkeit: Einführung in Adobe Photoshop und Illustrator
+
+9.2011-11.2011
+Praktikum Forschung am Bau GbR Lepsky, Nußbaum
+Tätigkeit: Schadenskartierung Schloss Broich, Mühlheim a. d. Ruhr
+Digitalisierung in Adobe Illustrator
+(link: http://www.forschung-am-bau.de/ text: ForschungamBau target: _blank)
+
+8.2010
+Aushilfe bei PixelPlaying GmbH Wermelskirchen
+Tätigkeit: Erstellung grafischer Inhalte für ein Onlinespiel
+
+6.2010-7.2010
+Studentische Hilfskraft Fachhochschule-Köln Projekt Colonia3D
+Tätigkeit: Evaluation der Informationsanwendung Colonia3D
+im Römisch-Germanischen-Museum Köln
+(link: http://colonia3d.de/colonia3d-home-2/ text: Colonia3D target: _blank)
+
+12.2009-3.2010
+Studentische Hilfskraft Fachhochschule-Köln Projekt Colonia3D
+Tätigkeit: Digitale dreidimensionale Rekonstruktion auf Basis
+archäologischer Befunde
+(link: http://colonia3d.de/colonia3d-home-2/ text: Colonia3D target: _blank)
+
+
+ 
+
+Studium:
+
+9.2005-7.2013
+Magisterstudium an der Universität zu Köln
+Kunstgeschichte
+Musikwissenschaft
+Iberisch-Lateinamerikanische Geschichte
+
+2.2009-7.2009
+Auslandsstudium Universität Sevilla
+Departamento de Historia del Arte
+
+Sprachen:
+Deutsch         -Muttersprachler
+Englisch         -fließend
+Spanisch        -fortgeschritten
+
+Hobbies:
+Schlagzeug
+Boxen
+Videospiele
