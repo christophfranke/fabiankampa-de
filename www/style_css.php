@@ -1,1 +1,0 @@
-<?php return '/assets/public/style.a55b846980328454eceeb14b8fe60dbc.css';
