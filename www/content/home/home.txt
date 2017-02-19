@@ -30,45 +30,43 @@ Fabian Kampa
 Lindenstr. 92
 50674 Köln
 
-Sämtliche auf dieser Seite gezeigten Arbeiten
-sind ausschließlich von mir angefertigt worden.
-
 ----
 
 Vita: 
 
 #Über mich
+Du brauchst 3D-Modelle oder ganze Szenen für Interaktive Anwendungen, WebGL oder VirtualReality? 
+Dann meld dich! Ich arbeite seit vier Jahren an nichts anderem. 
 
-Ich bin ein in Köln lebender 3D-Grafiker. Mein Tätigkeitsfeld umfasst den Arbeitsablauf von der Konzeption, über Modellierung, Texturierung, Beleuchtung bis hin zum Rendering der Inhalte. Ich habe umfangreiche Erfahrung im Anfertigen von echtzeitfähigen Modellen sowie den zugehörigen Techniken wie Texture-baking und dem Erstellen von Materialien und Shadern. Mein Kunstgeschichtsstudium bietet mir zusätzlich ein vertieftes Verständnis von Architektur sowie wissenschaftlichen Rekonstruktionen und deren Präsentation. Seit dem Abschluss meines Studiums und meiner Magisterarbeit zu “Architektur in Videospielen” 2013 arbeite ich hauptberuflich im Bereich 3D-Visualisierung und Gamedesign.
+
+
 Software
 
 3dsMax
 Unity3D
-UDK (Unreal Development Kit)
+UnrealEngine4
 Photoshop
-MentalRay
-VRay
-World Machine
 Maya
-ZBrush
 
  
 
 ##Lebenslauf
 
-seit 11.2015: 
+seit 11.2016: 
 Freiberufler
 
-2.2014-10.2015:
-fester Mitarbeiter bei redPlant Realtime Studios, Düsseldorf
+2.2014-10.2016:
+Mitarbeiter bei redPlant Realtime Studios, Düsseldorf
 Tätigkeit: Echtzeit 3D-Grafiker
 (link: http://redPlant.de target: _blank)
 
 11.2013-1.2014:
-Freiberufliche Mitarbeit bei redPlant 3D Echtzeit Studio 
+Freiberufliche Mitarbeit bei redPlant Realtime Studios, Düsseldorf
+(link: http://redPlant.de target: _blank)
 
 8.2013-9.2013:
-Freiberufliche Mitarbeit bei redPlant 3D Echtzeit Studio
+Freiberufliche Mitarbeit bei redPlant Realtime Studios, Düsseldorf
+(link: http://redPlant.de target: _blank)
 
 7.2013
 Abschluss Studium Kunstgeschichte, Magister
@@ -95,7 +93,7 @@ Digitalisierung in Adobe Illustrator
 
 8.2010
 Aushilfe bei PixelPlaying GmbH Wermelskirchen
-Tätigkeit: Erstellung grafischer Inhalte für ein Onlinespiel
+Tätigkeit: 3D-Modelle für Onlinespiel
 
 6.2010-7.2010
 Studentische Hilfskraft Fachhochschule-Köln Projekt Colonia3D
@@ -128,8 +126,3 @@ Sprachen:
 Deutsch         -Muttersprachler
 Englisch         -fließend
 Spanisch        -fortgeschritten
-
-Hobbies:
-Schlagzeug
-Boxen
-Videospiele
