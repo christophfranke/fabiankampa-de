@@ -1,6 +1,8 @@
 <?php snippet('header'); ?>
 <?php echo $page->text()->kirbytext(); ?>
-
+<style>
+<?php echo $page->css(); ?>
+</style>
 <?php
 $index = 0;
 foreach($page->images() as $image)

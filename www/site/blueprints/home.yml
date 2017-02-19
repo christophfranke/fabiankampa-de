@@ -23,3 +23,7 @@ fields:
   impressum:
     label: Impressum
     type: textarea
+
+  css:
+    label: CSS
+    type: textarea

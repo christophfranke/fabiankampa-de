@@ -126,3 +126,42 @@ Sprachen:
 Deutsch         -Muttersprachler
 Englisch         -fließend
 Spanisch        -fortgeschritten
+
+----
+
+Css: 
+
+body{
+	margin: 0;
+	background-color: #666666;
+}
+img{
+	width: 100%;
+	margin: 0;
+	display: block;
+}
+
+main{
+	margin: 0 auto;
+	width: 100%;
+}
+
+a, a:visited, a:hover, a:focus{
+	color: white;
+}
+
+p{
+	margin: auto;
+	margin-top: 16px;
+	margin-bottom: 0;
+	width: 60%;
+	color: white;
+	background-color: transparent;
+}
+
+h1, h2, h3, h4, h5, h6{
+	margin: 20px auto;
+	color: white;
+	background-color: transparent;
+	text-align: center;
+}
