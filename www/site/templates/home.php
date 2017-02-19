@@ -1,5 +1,5 @@
 <?php snippet('header'); ?>
-<?php echo $page->text()->kirbytext(); ?>
+<?php echo $page->introtext()->kirbytext(); ?>
 <style>
 <?php echo $page->css(); ?>
 </style>

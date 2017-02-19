@@ -8,8 +8,8 @@ fields:
     label: Title
     type:  text
 
-  text:
-    label: Text
+  introtext:
+    label: Intro Text
     type:  textarea
 
   vita:

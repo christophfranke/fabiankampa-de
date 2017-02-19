@@ -2,11 +2,7 @@ Title: Home
 
 ----
 
-Intro: 
-
-----
-
-Text: 
+Introtext: 
 
 ----
 
