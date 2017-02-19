@@ -1,0 +1,15 @@
+Benutzername: wp10975786-fabian
+Passwort: nLNPZoAnSYpZnVf
+
+Server eingang:
+wp10975786.mail.server-he.de
+IMAP / IMAPS Ports	143	143/993	Plain, SSL/TLS, STARTTLS
+POP / POPS Ports	110	995
+
+Server ausgang:
+wp10975786.mailout.server-he.de
+ 	unverschlüsselt	verschlüsselt	Authentifizierung
+SMTP	25/587	25/465/587	PLAIN, LOGIN, TLS, STARTTLS
+ 
+KIS_PASSWORD = '..V4UubH1XoeOUmxsT44oL'
+KIS_LOGIN = 'fabiankampa'

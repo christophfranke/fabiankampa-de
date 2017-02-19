@@ -1,7 +1,6 @@
 
 
 *.sublime-*
-material/
 
 www/content/assets/public/
 www/style_css.php
