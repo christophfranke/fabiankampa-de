@@ -8,10 +8,10 @@ Introtext:
 
 Contact: 
 
-##Kontakt
+##contact
 
 E-Mail:
-(email: derfabiankampa@googlemail.com)
+(email: post@fabiankampa.de)
 
 Telefon:
 01577-1700792
@@ -20,22 +20,30 @@ Telefon:
 
 Impressum: 
 
-##Impressum
+##imprint
 
 Fabian Kampa
 Lindenstr. 92
 50674 Köln
 
+Umsatzst.-Id-Nr : DE312615089
+
 ----
 
 Vita: 
 
-#Über mich
-Du brauchst 3D-Modelle oder ganze Szenen für Interaktive Anwendungen, WebGL oder VirtualReality? 
-Dann meld dich! Ich arbeite seit vier Jahren an nichts anderem. 
+<br/> 
+
+#about me
+I´m a freelance 3D-realtime artist and art-historian from Cologne, Germany.
+<br/> 
+Well, if you´re in need of optimized 3D-models, entire scenes for interactive applications, WebGL or VirtualReality, that´s what I do. You need consultation on technical aspects of 3D-assets? You need scientific reconstructions and visualizations? Just get in touch!
+(email: post@fabiankampa.de)
+need more?
+I´ve been recently cooperating with some very experienced graphics developers on different freelance projects. So setting up a complete team for a project is something I´m always happy to offer.
 
 
-
+<br/> 
 Software
 
 3dsMax
@@ -43,85 +51,85 @@ Unity3D
 UnrealEngine4
 Photoshop
 Maya
-
+...
  
+<br/> 
+##C.V.
 
-##Lebenslauf
-
-seit 11.2016: 
-Freiberufler
+since 11.2016: 
+Freelance Artist
 
 2.2014-10.2016:
-Mitarbeiter bei redPlant Realtime Studios, Düsseldorf
-Tätigkeit: Echtzeit 3D-Grafiker
+Employee at redPlant Realtime Studios, Düsseldorf
+-3D realtime-artist
 (link: http://redPlant.de target: _blank)
 
 11.2013-1.2014:
-Freiberufliche Mitarbeit bei redPlant Realtime Studios, Düsseldorf
+Freelancer for redPlant Realtime Studios, Düsseldorf
 (link: http://redPlant.de target: _blank)
 
 8.2013-9.2013:
-Freiberufliche Mitarbeit bei redPlant Realtime Studios, Düsseldorf
+Freelancer for redPlant Realtime Studios, Düsseldorf
 (link: http://redPlant.de target: _blank)
 
 7.2013
-Abschluss Studium Kunstgeschichte, Magister
+University Degree 'History of Art', Magister (Master)
+Universität zu Köln
 
 4.2013-7.2013
-Tutorentätigkeit an der Universität zu Köln
-“Digitale Bildbearbeitung für Kunsthistoriker”
-Tätigkeit: Einführung in Adobe Photoshop
+Tutor  at Universität zu Köln
+“digital image manipulation for art historians”
+-introduction to photoshop
 
 10.2012-3.2013
-Magisterarbeit, Kunstgeschichte
-Thema: “Architektur in Videospielen” 
+Masterthesis, History of Art
+'architecture in videogames'
 
 4.2012-7.2012
-Tutorentätigkeit an der Universität zu Köln
-“Grafische Datenverarbeitung für Kunsthistoriker”
-Tätigkeit: Einführung in Adobe Photoshop und Illustrator
+Tutor at Universität zu Köln
+“digital image manipulation for art historians”
+-introduction to adobe photoshop and illustrator
 
 9.2011-11.2011
-Praktikum Forschung am Bau GbR Lepsky, Nußbaum
-Tätigkeit: Schadenskartierung Schloss Broich, Mühlheim a. d. Ruhr
-Digitalisierung in Adobe Illustrator
+internship 'Forschung am Bau GbR Lepsky, Nußbaum'
+-documentation of structural damages at Schloss Broich, Mühlheim a. d. Ruhr
+-digitalisation in adobe illustrator
 (link: http://www.forschung-am-bau.de/ text: ForschungamBau target: _blank)
 
 8.2010
-Aushilfe bei PixelPlaying GmbH Wermelskirchen
-Tätigkeit: 3D-Modelle für Onlinespiel
+'PixelPlaying', Wermelskirchen
+-3D modeling for onlinegame
 
 6.2010-7.2010
-Studentische Hilfskraft Fachhochschule-Köln Projekt Colonia3D
-Tätigkeit: Evaluation der Informationsanwendung Colonia3D
-im Römisch-Germanischen-Museum Köln
+student job at Fachhochschule-Köln, 'Colonia3D'
+evaluation of the educational software 'Colonia3D'
+in the 'Römisch-Germanischen-Museum', Cologne
 (link: http://colonia3d.de/colonia3d-home-2/ text: Colonia3D target: _blank)
 
 12.2009-3.2010
-Studentische Hilfskraft Fachhochschule-Köln Projekt Colonia3D
-Tätigkeit: Digitale dreidimensionale Rekonstruktion auf Basis
-archäologischer Befunde
+student job at Fachhochschule-Köln, 'Colonia3D'
+-3D Reconstructions based on archaeological records
 (link: http://colonia3d.de/colonia3d-home-2/ text: Colonia3D target: _blank)
 
 
  
-
-Studium:
+<br/> 
+Education:
 
 9.2005-7.2013
-Magisterstudium an der Universität zu Köln
-Kunstgeschichte
-Musikwissenschaft
-Iberisch-Lateinamerikanische Geschichte
+Studies at University Cologne. Degree "Magister" (~Bachelor+Master)
+history of arts
+musicology
+iberian- latinamerican history
 
 2.2009-7.2009
-Auslandsstudium Universität Sevilla
+study abroad University of Seville, Spain
 Departamento de Historia del Arte
 
-Sprachen:
-Deutsch         -Muttersprachler
-Englisch         -fließend
-Spanisch        -fortgeschritten
+Languages:
+German         -native speaker
+English          -fluent
+Spanish        -advanced
 
 ----
 
@@ -129,11 +137,12 @@ Css:
 
 body{
 	margin: 0;
-	background-color: #666666;
+	background-color: #415158;
 }
 img{
 	width: 100%;
 	margin: 0;
+        margin-bottom: 36px;
 	display: block;
 }
 
@@ -153,11 +162,12 @@ p{
 	width: 60%;
 	color: white;
 	background-color: transparent;
-}
+        font-family: Verdana, Geneva, sans-serif;}
 
 h1, h2, h3, h4, h5, h6{
 	margin: 20px auto;
 	color: white;
 	background-color: transparent;
 	text-align: center;
+        font-family: Verdana, Geneva, sans-serif;
 }
