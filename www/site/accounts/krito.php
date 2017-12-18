@@ -2,9 +2,11 @@
 
 username: krito
 password: >
-  $2a$10$npudUcdiDm/f.zpcjdmDCeooXphvV11QvVYACWw9VQO/886Gv8F5W
+  $2a$10$N5fsyCsQho8w1xkdRHZ4NeBjLjHXCmh130J4pjP2WOY.IATI4yvNi
 email: krito@krito.de
 language: de
 role: admin
 history:
   - home
+firstname: ""
+lastname: ""
