@@ -24,6 +24,12 @@ fields:
       link:
         label: Link
         type: url
+      color:
+        label: Button-Farbe
+        type: color
+      hover_color:
+        label: Button Highlight Farbe
+        type: color
 
   vita:
     label: Lebenslauf

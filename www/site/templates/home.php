@@ -9,7 +9,9 @@ foreach($page->linked_image()->yaml() as $li)
 {
 	$image = $li['image'];
 	$link = $li['link'];
-	snippet('image', compact('image', 'link', 'index'));
+	$color = @$li['color'];
+	$hover_color = @$li['hover_color'];
+	snippet('image', compact('image', 'link', 'color', 'hover_color', 'index'));
 	$index++;
 }
 ?>
