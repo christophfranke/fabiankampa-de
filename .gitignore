@@ -6,3 +6,6 @@ www/assets/public/
 www/style_css.php
 www/main_js.php
 www/thumbs/
+
+error.log
+access.log
