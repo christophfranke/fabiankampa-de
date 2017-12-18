@@ -5,9 +5,11 @@
 </style>
 <?php
 $index = 0;
-foreach($page->images() as $image)
+foreach($page->linked_image()->yaml() as $li)
 {
-	snippet('image', compact('image', 'index'));
+	$image = $li['image'];
+	$link = $li['link'];
+	snippet('image', compact('image', 'link', 'index'));
 	$index++;
 }
 ?>
