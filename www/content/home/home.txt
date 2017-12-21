@@ -32,7 +32,9 @@ Umsatzst.-Id-Nr : DE312615089
 
 Vita: 
 
-<br/> 
+<br/>
+
+(image: neues_profilbild_rund_framed.png)
 
 #about me
 I´m a freelance 3D-realtime artist and art-historian from Cologne, Germany.
@@ -171,3 +173,46 @@ h1, h2, h3, h4, h5, h6{
 	text-align: center;
         font-family: Verdana, Geneva, sans-serif;
 }
+
+----
+
+Linked-image: 
+
+- 
+  image: 01_fabiankampa_arbeiten.jpg
+  link: ""
+  color: ""
+  selected_color: '#ffffff'
+  hover_color: ""
+- 
+  image: 02_fabiankampa_arbeiten.jpg
+  link: https://www.adidas.de/mi_ultraboost_xeno
+  color: ""
+  hover_color: ""
+- 
+  image: 03_fabiankampa_arbeiten.jpg
+  link: ""
+  color: ""
+  hover_color: ""
+- 
+  image: 05_fabiankampa_arbeiten.jpg
+  link: >
+    https://redplant.de/projekte-interakiv-3d/webgl-3d-konfigurator-flix-live-moving-kitchen/
+  color: ""
+  hover_color: ""
+- 
+  image: 04_fabiankampa_arbeiten.jpg
+  link: >
+    https://konfigurator.rexin-shop.de/?_ga=2.147510640.695570067.1513615978-651472331.1513615978
+  color: ""
+  hover_color: ""
+- 
+  image: 06_fabiankampa_arbeiten.jpg
+  link: ""
+  color: ""
+  hover_color: ""
+- 
+  image: 08_fabiankampa_works.jpg
+  link: ""
+  color: ""
+  hover_color: ""
