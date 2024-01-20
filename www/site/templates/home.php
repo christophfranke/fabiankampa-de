@@ -5,14 +5,16 @@
 </style>
 <?php
 $index = 0;
-foreach($page->linked_image()->yaml() as $li)
-{
-	$image = $li['image'];
-	$link = $li['link'];
-	$color = @$li['color'];
-	$hover_color = @$li['hover_color'];
-	snippet('image', compact('image', 'link', 'color', 'hover_color', 'index'));
-	$index++;
+foreach($page->linked_image()->toStructure() as $li) {
+    $image = $li->image()->toFile();
+    $link = $li->link()->toUrl();
+    $color = $li->color();
+    $hover_color = $li->hover_color();
+
+    if($image) {
+        snippet('image', ['image' => $image, 'link' => $link, 'color' => $color, 'hover_color' => $hover_color, 'index' => $index]);
+        $index++;
+    }
 }
 ?>
 <?php echo $page->vita()->kirbytext(); ?>
