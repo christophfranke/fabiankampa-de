@@ -1,0 +1,55 @@
+title: Home
+
+options:
+  template: false
+  changeSlug: false
+  delete: false
+
+files:
+  type: image
+
+fields:
+  title:
+    label: Title
+    type: text
+
+  introtext:
+    label: Intro Text
+    type: textarea
+
+  linked_image:
+    label: Bild mit Link
+    type: structure
+    fields:
+      image:
+        label: Bild
+        type: files
+        multiple: false
+        query: page.files
+      link:
+        label: Link
+        type: url
+      color:
+        label: Button-Farbe
+        type: color
+      hover_color:
+        label: Button Highlight Farbe
+        type: color
+
+  vita:
+    label: Lebenslauf
+    type: textarea
+
+  contact:
+    label: Kontakt
+    type: textarea
+
+  impressum:
+    label: Impressum
+    type: textarea
+
+  css:
+    label: CSS
+    type: blocks
+    fieldsets:
+      - code

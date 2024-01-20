@@ -1,4 +1,4 @@
-
+.DS_Store
 
 *.sublime-*
 
@@ -7,5 +7,9 @@ www/style_css.php
 www/main_js.php
 www/thumbs/
 
+Dokumentation/
+
 error.log
 access.log
+
+www-old/

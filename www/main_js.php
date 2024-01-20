@@ -1,1 +1,0 @@
-<?php return '/assets/public/main.081ebc801f3f3ab39ea3c4cadddbb7c8.js';

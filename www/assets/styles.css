@@ -1,0 +1,64 @@
+body{
+    margin: 0;
+    background-color: #415158;
+}
+img{
+    width: 100%;
+    margin: 0;
+        margin-bottom: 36px;
+    display: block;
+}
+
+main{
+    margin: 0 auto;
+    width: 100%;
+}
+
+a, a:visited, a:hover, a:focus{
+    color: white;
+}
+
+p{
+    margin: auto;
+    margin-top: 16px;
+    margin-bottom: 0;
+    width: 60%;
+    color: white;
+    background-color: transparent;
+        font-family: Verdana, Geneva, sans-serif;}
+
+h1, h2, h3, h4, h5, h6{
+    margin: 20px auto;
+    color: white;
+    background-color: transparent;
+    text-align: center;
+    font-family: Verdana, Geneva, sans-serif;
+}
+
+.image-with-link {
+    position: relative;
+    overflow: hidden;
+}
+
+.image-with-link .play-button {
+    transition: color 0.4s, opacity 0.4s;
+    font-size: 8vw;
+    color: black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate3d(-50%, -50%, 0);
+    opacity: 0;
+}
+
+.image-with-link .play-button:hover {
+    color: white;
+}
+
+.image-with-link:hover .play-button {
+    opacity: 0.5;
+}
+
+.image-with-link:hover .play-button:hover {
+    opacity: 1;
+}

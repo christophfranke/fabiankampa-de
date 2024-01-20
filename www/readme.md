@@ -1,84 +1,36 @@
-# Kirby
+<img src="http://getkirby.com/assets/images/github/plainkit.jpg" width="300">
 
-Kirby is a file-based CMS.
-Easy to setup. Easy to use. Flexible as hell.
+**Kirby: the CMS that adapts to any project, loved by developers and editors alike.**
+The Plainkit is a minimal Kirby setup with the basics you need to start a project from scratch. It is the ideal choice if you are already familiar with Kirby and want to start step-by-step.
 
-## Trial
+You can learn more about Kirby at [getkirby.com](https://getkirby.com).
 
-You can try Kirby on your local machine or on a test
-server as long as you need to make sure it is the right
-tool for your next project.
+### Try Kirby for free
 
-## Buy a license
+You can try Kirby and the Plainkit on your local machine or on a test server as long as you need to make sure it is the right tool for your next project. … and when you’re convinced, [buy your license](https://getkirby.com/buy).
 
-You can purchase your Kirby license at
-<https://getkirby.com/buy>
+### Get going
 
-A Kirby license is valid for a single domain. You can find
-Kirby's license agreement here: <https://getkirby.com/license>
+Read our guide on [how to get started with Kirby](https://getkirby.com/docs/guide/quickstart).
 
-## The Starterkit
+You can [download the latest version](https://github.com/getkirby/plainkit/archive/main.zip) of the Plainkit.
+If you are familiar with Git, you can clone Kirby's Plainkit repository from Github.
 
-Kirby's Starterkit comes with a small demo website and a fully
-configured panel. Feel free to modify it and play with it as
-much as you like.
+    git clone https://github.com/getkirby/plainkit.git
 
-There's also the [Langkit](https://github.com/getkirby/langkit.git)
-in case you need a multi-language installation.
+## What's Kirby?
 
-## The Panel
+-   **[getkirby.com](https://getkirby.com)** – Get to know the CMS.
+-   **[Try it](https://getkirby.com/try)** – Take a test ride with our online demo. Or download one of our kits to get started.
+-   **[Documentation](https://getkirby.com/docs/guide)** – Read the official guide, reference and cookbook recipes.
+-   **[Issues](https://github.com/getkirby/kirby/issues)** – Report bugs and other problems.
+-   **[Feedback](https://feedback.getkirby.com)** – You have an idea for Kirby? Share it.
+-   **[Forum](https://forum.getkirby.com)** – Whenever you get stuck, don't hesitate to reach out for questions and support.
+-   **[Discord](https://chat.getkirby.com)** – Hang out and meet the community.
+-   **[Mastodon](https://mastodon.social/@getkirby)** – Spread the word.
+-   **[Instagram](https://www.instagram.com/getkirby/)** – Share your creations: #madewithkirby.
 
-You can find the login for Kirby's admin interface at
-http://yourdomain.com/panel. You will be guided through the signup
-process for your first user, when you visit the panel
-for the first time.
+---
 
-## Installation
-
-Kirby does not require a database, which makes it very easy to
-install. Just copy Kirby's files to your server and visit the
-URL for your website in the browser.
-
-**Please check if the invisible .htaccess file has been
-copied to your server correctly**
-
-### Requirements
-
-Kirby runs on PHP 5.4+, Apache or Nginx.
-
-### Download
-
-You can download the latest version of the Starterkit
-from https://download.getkirby.com
-
-### With Git
-
-If you are familiar with Git, you can clone Kirby's
-Starterkit repository from Github.
-
-    git clone https://github.com/getkirby/starterkit.git
-
-## Documentation
-
-<https://getkirby.com/docs>
-
-## Issues and feedback
-
-If you have a Github account, please report issues
-directly on Github:
-
-- <https://github.com/getkirby/kirby/issues>
-- <https://github.com/getkirby/panel/issues>
-- <https://github.com/getkirby/starterkit/issues>
-
-Otherwise you can use Kirby's forum: https://forum.getkirby.com
-or send us an email: <support@getkirby.com>
-
-## Support
-
-<https://getkirby.com/support>
-
-## Copyright
-
-© 2009-2016 Bastian Allgeier (Bastian Allgeier GmbH)
-<http://getkirby.com>
+© 2009 Bastian Allgeier
+[getkirby.com](https://getkirby.com) · [License agreement](https://getkirby.com/license)

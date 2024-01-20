@@ -1,2 +1,1 @@
-<?php
-go(url($page->parent()));
+<h1><?= $page->title() ?></h1>

@@ -2,8 +2,7 @@
 <html>
 <head>
 	<title>Fabian Kampa Portfolio</title>
-
-	<?= css( include('style_css.php') ) ?>
+	<link rel="stylesheet" href="<?= url('assets/styles.css') ?>">
 </head>
 <body>
 	<main>
