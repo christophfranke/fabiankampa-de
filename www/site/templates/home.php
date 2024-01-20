@@ -1,8 +1,19 @@
 <?php snippet('header'); ?>
 <?php echo $page->introtext()->kirbytext(); ?>
+
 <style>
-<?php echo $page->css(); ?>
+<?php
+// Loop through each block in the 'css' field
+foreach ($page->css()->toBlocks() as $block) {
+    // Check if the block is of the type 'code'
+    if ($block->type() == 'code') {
+        // Echo the code content
+        echo $block->code();
+    }
+}
+?>
 </style>
+
 <?php
 $index = 0;
 foreach($page->linked_image()->toStructure() as $li) {
